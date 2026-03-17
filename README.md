@@ -1,3 +1,6 @@
+# orig
+[Getting started with Spring Boot AOT + GraalVM Native Images
+](https://www.youtube.com/watch?v=FjRBHKUP-NA)
 # Specific graal java jdk
 ```shell
 sdk list java | grep installed
